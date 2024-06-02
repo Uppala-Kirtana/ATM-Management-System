@@ -31,7 +31,7 @@ This project is an ATM (Automated Teller Machine) Management System designed to 
 
 1. Clone the repository to your local machine.
 2. Set up XAMPP and start the Apache and MySQL services.
-3. Import the database schema provided in the `database.sql` file.
+3. Import the database schema provided in the `myatm.sql` file.
 4. Place the project files in the XAMPP `htdocs` directory.
 5. Access the application through `localhost` in your web browser.
 
